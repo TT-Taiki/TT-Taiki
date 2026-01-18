@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🙋‍♂️ Introducing Myself
 
-<!--
-**TT-Taiki/TT-Taiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Taiki Komori. 
+A Data Science student at UTS with a passion for transforming complex data into actionable business insights.
 
-Here are some ideas to get you started:
+* **Master of Data Science and Innovation (MDSI)** student at UTS, graduating in December 2026.
+* **Technical Skills:** Python, SQL, Machine Learning (Regression/Classification), and Mathematical Optimization.
+* **Current Focus:** Developing a regression model for Motor Vehicle Insurance premium prediction.
+* **Methodologies:** Practicing Scrum and CRISP-DM for efficient data project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+Welcome to my portfolio! Here are some of the data science projects I've been working on:
+* **[Insurance Premium Prediction](リポジトリへのリンク):** Predicting premiums using regression models with a focus on MAE and business interpretability.
+
+## 📫 Connect with me
+* [LinkedIn]-(www.linkedin.com/in/taiki-komori-347693348)
