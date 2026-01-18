@@ -15,3 +15,4 @@ Welcome to my portfolio! Here are some of the data science projects I've been wo
 
 ## 📫 Connect with me
 * [LinkedIn](www.linkedin.com/in/taiki-komori-347693348)
+  
