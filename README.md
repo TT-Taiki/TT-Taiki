@@ -14,5 +14,5 @@ Welcome to my portfolio! Here are some of the data science projects I've been wo
 * **[Insurance Premium Prediction](リポジトリへのリンク):** Predicting premiums using regression models with a focus on MAE and business interpretability.
 
 ## 📫 Connect with me
-* [LinkedIn](www.linkedin.com/in/taiki-komori-347693348)
+* [LinkedIn](https://www.linkedin.com/in/taiki-komori-347693348)
   
