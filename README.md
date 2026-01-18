@@ -1,5 +1,5 @@
 # 🙋‍♂️ Introducing Myself
-![Header Banner](Gemini_Generated_Image_fif1amfif1amfif1.png)
+
 
 Hello, I'm Taiki Komori. 
 A Data Science student at UTS with a passion for transforming complex data into actionable business insights.
@@ -14,4 +14,4 @@ Welcome to my portfolio! Here are some of the data science projects I've been wo
 * **[Insurance Premium Prediction](リポジトリへのリンク):** Predicting premiums using regression models with a focus on MAE and business interpretability.
 
 ## 📫 Connect with me
-* [LinkedIn]-(www.linkedin.com/in/taiki-komori-347693348)
+* [LinkedIn](www.linkedin.com/in/taiki-komori-347693348)
