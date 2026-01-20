@@ -1,7 +1,7 @@
 # 🙋‍♂️ Introducing Myself
 
 <p align="center">
-  <img src="cover.png" width="100%" />
+  <img src="Taiki Komoir.png" width="100%" />
 </p>
 
 Hello, I'm Taiki Komori. 
