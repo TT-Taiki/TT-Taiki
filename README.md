@@ -1,5 +1,8 @@
 # 🙋‍♂️ Introducing Myself
 
+<p align="center">
+  <img src="cover.png" width="100%" />
+</p>
 
 Hello, I'm Taiki Komori. 
 A Data Science student at UTS with a passion for transforming complex data into actionable business insights.
